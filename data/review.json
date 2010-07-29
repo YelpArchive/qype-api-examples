@@ -1,0 +1,17 @@
+{
+  "review": {
+    "rating": 4,
+    "language": "en",
+    "tags": [
+      {
+        "term": "testing",
+        "scheme": "http:\/\/localhost:4000\/v1\/tags"
+      },
+      {
+        "term": "php",
+        "scheme": "http:\/\/localhost:4000\/v1\/tags"
+      }
+    ],
+    "content": "This is a test review using PHP"
+  }
+}
